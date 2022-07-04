@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "NowInAndroidClone"
 include(":app")
+include(":core-model")
