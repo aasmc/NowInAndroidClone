@@ -25,4 +25,14 @@ dependencyResolutionManagement {
 }
 rootProject.name = "NowInAndroidClone"
 include(":app")
+include(":benchmark")
 include(":core-model")
+include(":core-common")
+include(":core-data")
+include(":core-testing")
+include(":core-database")
+include(":core-datastore")
+include(":core-datastore-test")
+include(":core-network")
+include(":core-data")
+include(":core-data-test")
