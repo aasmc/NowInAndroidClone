@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11">
-      <module name="build-logic.convention" target="1.8" />
-      <module name="build-logic.convention.main" target="1.8" />
-      <module name="build-logic.convention.test" target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="NowInAndroidClone.app" target="11" />
+      <module name="NowInAndroidClone.benchmark" target="11" />
+      <module name="NowInAndroidClone.core-common" target="11" />
+      <module name="NowInAndroidClone.core-data" target="11" />
+      <module name="NowInAndroidClone.core-data-test" target="11" />
+      <module name="NowInAndroidClone.core-database" target="11" />
+      <module name="NowInAndroidClone.core-datastore" target="11" />
+      <module name="NowInAndroidClone.core-datastore-test" target="11" />
+      <module name="NowInAndroidClone.core-model" target="11" />
+      <module name="NowInAndroidClone.core-model.main" target="11" />
+      <module name="NowInAndroidClone.core-model.test" target="11" />
+      <module name="NowInAndroidClone.core-network" target="11" />
+      <module name="NowInAndroidClone.core-testing" target="11" />
+      <module name="NowInAndroidClone.sync" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

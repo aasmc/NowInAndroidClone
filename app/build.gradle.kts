@@ -88,12 +88,12 @@ dependencies {
 //    implementation(project(":core-designsystem"))
 //    implementation(project(":core-navigation"))
 //
-//    implementation(project(":sync"))
+    implementation(project(":sync"))
 //
-//    androidTestImplementation(project(":core-testing"))
-//    androidTestImplementation(project(":core-datastore-test"))
-//    androidTestImplementation(project(":core-data-test"))
-//    androidTestImplementation(project(":core-network"))
+    androidTestImplementation(project(":core-testing"))
+    androidTestImplementation(project(":core-datastore-test"))
+    androidTestImplementation(project(":core-data-test"))
+    androidTestImplementation(project(":core-network"))
 
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.appcompat)
